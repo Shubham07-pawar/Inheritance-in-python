@@ -1,2 +1,3 @@
 # Inheritance
-Inheritance  OOP concept in python.
+Inheritance in OOP concept
+
